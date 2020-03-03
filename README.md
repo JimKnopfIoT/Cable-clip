@@ -1,5 +1,5 @@
 # Cable clip
-3D printable Cable clip for healthcare bed. Created with Rhino 6.
+3D printable Cable clip for healthcare bed (d=32mm). Created with Rhino 6.
 
 # Requirements:
 * 3D printer 
