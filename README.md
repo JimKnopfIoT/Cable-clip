@@ -6,7 +6,7 @@
 * Filament of your choice
 
 ## View
-![Example](iso3.jpg)
-![Example](IMG_20200226_151641.jpg)
+<img src="iso3.jpg" width="500" align="center"> 
+<img src="IMG_20200226_151641.jpg" width="500" align="center"> 
 
 
